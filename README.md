@@ -389,21 +389,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [NVIDIA NIM](https://www.nvidia.com/en-us/ai-data-science/nim/) for high-accuracy OCR API
 - [Transformers](https://huggingface.co/transformers/) for the NLP framework
 
-## 📞 Support
-
-- **Documentation**: [https://taxdoc-ai.readthedocs.io](https://taxdoc-ai.readthedocs.io)
-- **Issues**: [GitHub Issues](https://github.com/your-org/taxdoc-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-org/taxdoc-ai/discussions)
-
-## 🗺️ Roadmap
-
-- [ ] Support for additional document types (1098, 1095, etc.)
-- [ ] Multi-language support
-- [ ] Web interface
-- [ ] Cloud deployment options
-- [ ] Real-time processing API
-- [ ] Integration with popular tax software
-
 ---
 
 **TaxDoc-AI** - Making tax document processing intelligent, accurate, and efficient.
