@@ -116,15 +116,6 @@ Document Image → OCR → Text Extraction → Document Classification
 Structured Data ← Confidence Scoring ← NER ← Classified Text
 ```
 
-## 📊 Performance Metrics
-
-### Expected Performance (with trained models)
-
-- **Document Classification**: 95%+ accuracy
-- **Field Extraction**: 85%+ accuracy with confidence > 0.8
-- **Processing Time**: < 3 seconds per document
-- **Scalability**: 1000+ documents per hour
-
 ### Evaluation Metrics
 
 - **Classification**: Accuracy, Precision, Recall, F1-score
